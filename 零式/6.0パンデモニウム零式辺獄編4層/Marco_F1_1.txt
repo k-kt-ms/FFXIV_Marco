@@ -1,0 +1,15 @@
+/p 【基本散開】　　　　　【毒線YPP式】
+/p 　D3MTD4　　　　　TH：北　DPS：南
+/p 　H1 ◯ H2
+/p 　D1 ST D2　※塔線時計回り/線ぐるぐる
+/p 【ピナクス炎：頭割り】　【ピナクス炎：シフト後頭割り】
+/p 　MTH1 ● STH2　 　　敵正面：MTH1D1D3
+/p 　D1D3 　 D2D4　　　敵背面：STH2D2D4
+/p 【ピナクス毒：散開】　　【ピナクス毒：シフト後散開】
+/p 　 MT　●　 ST　　　　　 　MT
+/p 　 　D1　 D2　　　　 　 D1 〇 D2　　 ※MTは中央へ誘導
+/p 　D3H1　H2D4　 　　　　 ST　※遠隔は適時外周寄りに散開
+/p 【緑玉脳死・十字】
+/p 　STMTH2　※MTH2→D3　STH1→D4
+/p 　H1 ● D4　　 D1D3→MT　D2D4→H1
+/p 　D1D3D2　　上記の玉を取って時計回り
